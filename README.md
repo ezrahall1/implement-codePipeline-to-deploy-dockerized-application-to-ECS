@@ -1,7 +1,7 @@
 <h1>Implement CodePipeline to deploy dockerized application to ECS</h1>
 
 <h2>Description</h2>
-This project will demonstrate how to add CI/CD pipeline to an Amazon S3 bucket
+This project is designed to showcase the implementation of a Continuous Integration/Continuous Deployment (CI/CD) pipeline specifically tailored for an Amazon S3 bucket. The step-by-step demonstration will guide users through the process of seamlessly integrating a CI/CD pipeline, emphasizing the unique considerations associated with S3. By following this project, individuals will acquire practical knowledge on setting up an efficient and automated CI/CD workflow for managing deployments within the Amazon S3 environment. The focus is on providing a comprehensive understanding of the configuration steps, highlighting the importance of incorporating CI/CD principles to streamline and enhance the deployment processes associated with an Amazon S3 bucket.
 <br />
 
 
